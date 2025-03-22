@@ -2,9 +2,7 @@
 
 Problem Scenario
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
-AtliQ Mart, a leading retail chain with over 50 supermarkets across southern India, ran a large-scale promotion on their AtliQ branded products during the Diwali 2023 and Sankranti 2024 festive seasons. The sales
-
-director is now seeking insights into which promotions performed well and which ones didn’t, in order to make data-driven decisions for the upcoming promotional period.
+AtliQ Mart, a leading retail chain with over 50 supermarkets across southern India, ran a large-scale promotion on their AtliQ branded products during the Diwali 2023 and Sankranti 2024 festive seasons. The sales director is now seeking insights into which promotions performed well and which ones didn’t, in order to make data-driven decisions for the upcoming promotional period.
 
 Task
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
