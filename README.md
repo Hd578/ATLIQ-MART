@@ -17,14 +17,14 @@ Generate SQL Queries
 
 INSIGHTS
 
-* The ATLIQ Double Bedsheet Set and Waterproof Immersion Rod proved to be high-value products, providing valuable insights for evaluating their pricing and promotion strategies.
+* ATLIQ Double Bedsheet Set and Waterproof Immersion Rod proved to be high-value products, providing valuable insights for evaluating their pricing and promotion strategies[AD-Hoc Query 1].
+* 
+* Bangalore, Chennai, and Hyderabad emerged as the cities with the highest store presence, helping optimize their retail operations[Ad-Hoc Query 2].
 
-* Bangalore, Chennai, and Hyderabad emerged as the cities with the highest store presence, helping optimize their retail operations.
+* Provided total revenue before and after the promotion, categorized by campaign, for a financial assessment of the promotional campaigns[Ad-Hoc Query 3].
 
-* Provided total revenue before and after the promotion, categorized by campaign, for a financial assessment of the promotional campaigns.
+* Obtained key metrics such as category, ISU%, and rank order to evaluate category-wise performance and measure the success of the Diwali campaign in driving incremental sales[Ad-Hoc Query 4].
 
-* Obtained key metrics such as category, ISU%, and rank order to evaluate category-wise performance and measure the success of the Diwali campaign in driving incremental sales.
-
-* The analysis helps identify successful products in terms of incremental revenue across different campaigns, aiding in product optimization.
+* The analysis helps identify successful products in terms of incremental revenue across different campaigns, aiding in product optimization[Ad-Hoc Query 5].
 
 
