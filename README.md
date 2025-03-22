@@ -21,7 +21,7 @@ INSIGHTS
 * 
 * Bangalore, Chennai, and Hyderabad emerged as the cities with the highest store presence, helping optimize their retail operations[Ad-Hoc Query 2].(https://github.com/Hd578/ATLIQ-MART/blob/main/Ad-Hoc%20Query%202.png)
 
-* Provided total revenue before and after the promotion, categorized by campaign, for a financial assessment of the promotional campaigns[Ad-Hoc Query 3].
+* Provided total revenue before and after the promotion, categorized by campaign, for a financial assessment of the promotional campaigns[Ad-Hoc Query 3].(https://github.com/Hd578/ATLIQ-MART/blob/main/Ad-hoc%203%20request.png)
 
 * Obtained key metrics such as category, ISU%, and rank order to evaluate category-wise performance and measure the success of the Diwali campaign in driving incremental sales[Ad-Hoc Query 4].
 
