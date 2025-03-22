@@ -7,16 +7,18 @@ AtliQ Mart, a leading retail chain with over 50 supermarkets across southern Ind
 Task
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Generate Report through Sql Tools so that top level executive can take insightful and optimized decesions
+
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Steps
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Import SQL Datafiles
 Generate SQL Queries
--------------------------------------------------------------------------------------------------------------------------------------------------------------------
-INSIGHTS
 
+
+INSIGHTS
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
 * ATLIQ Double Bedsheet Set and Waterproof Immersion Rod proved to be high-value products, providing valuable insights for evaluating their pricing and promotion strategies[AD-Hoc Query 1].(https://github.com/Hd578/ATLIQ-MART/blob/main/Ad-%20Hoc%20Query%201.png)
-* 
+  
 * Bangalore, Chennai, and Hyderabad emerged as the cities with the highest store presence, helping optimize their retail operations[Ad-Hoc Query 2].(https://github.com/Hd578/ATLIQ-MART/blob/main/Ad-Hoc%20Query%202.png)
 
 * Provided total revenue before and after the promotion, categorized by campaign, for a financial assessment of the promotional campaigns[Ad-Hoc Query 3].(https://github.com/Hd578/ATLIQ-MART/blob/main/Ad-hoc%203%20request.png)
