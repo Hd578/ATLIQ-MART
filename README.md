@@ -17,7 +17,7 @@ Generate SQL Queries
 
 INSIGHTS
 
-* ATLIQ Double Bedsheet Set and Waterproof Immersion Rod proved to be high-value products, providing valuable insights for evaluating their pricing and promotion strategies[AD-Hoc Query 1].
+* ATLIQ Double Bedsheet Set and Waterproof Immersion Rod proved to be high-value products, providing valuable insights for evaluating their pricing and promotion strategies[AD-Hoc Query 1].(https://github.com/Hd578/ATLIQ-MART/blob/main/Ad-%20Hoc%20Query%201.png)
 * 
 * Bangalore, Chennai, and Hyderabad emerged as the cities with the highest store presence, helping optimize their retail operations[Ad-Hoc Query 2].
 
