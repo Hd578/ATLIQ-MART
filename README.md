@@ -23,7 +23,7 @@ INSIGHTS
 
 * Provided total revenue before and after the promotion, categorized by campaign, for a financial assessment of the promotional campaigns[Ad-Hoc Query 3].(https://github.com/Hd578/ATLIQ-MART/blob/main/Ad-hoc%203%20request.png)
 
-* Obtained key metrics such as category, ISU%, and rank order to evaluate category-wise performance and measure the success of the Diwali campaign in driving incremental sales[Ad-Hoc Query 4].
+* Obtained key metrics such as category, ISU%, and rank order to evaluate category-wise performance and measure the success of the Diwali campaign in driving incremental sales[Ad-Hoc Query 4].(https://github.com/Hd578/ATLIQ-MART/blob/main/Ad%20-Hoc%20Query%204.png)
 
 * The analysis helps identify successful products in terms of incremental revenue across different campaigns, aiding in product optimization[Ad-Hoc Query 5].
 
